@@ -1,4 +1,7 @@
 # Caravan
+
+It is performed by R.
+
 ## Introduction
 It is a binary classification task that predicts whether a customer likely to purchase the caravan policy or not. It was originally a KDD data challenge and its detail is provided at [TIC](http://kdd.ics.uci.edu/databases/tic/). Data used in this project comes from [here](http://kdd.ics.uci.edu/databases/tic/tic.html).
 
