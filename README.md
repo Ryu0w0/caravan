@@ -1,16 +1,18 @@
 # Caravan
 
-It is performed by R.
+A binary classification task implemented by R.
 
-## Introduction
-It is a binary classification task that predicts whether a customer likely to purchase the caravan policy or not. It was originally a KDD data challenge and its detail is provided at [TIC](http://kdd.ics.uci.edu/databases/tic/). Data used in this project comes from [here](http://kdd.ics.uci.edu/databases/tic/tic.html).
+## Description
+It is a binary classification task that predicts whether a customer is likely to purchase the caravan policy or not. This task was provided from a [KDD data challenge](http://kdd.ics.uci.edu/databases/tic/). Data used in this project was retrieved from [TIC](http://kdd.ics.uci.edu/databases/tic/tic.html).
 
-This project addressed 2 problems below;
+This project addressed 2 sub-tasks below;
 
 1. Predicting who are likely to be interested in purchasing a caravan insurance policy.
-2. Explaining why such a prediction was made.
+2. Analyzing factors which affect the decision making in customers
 
-Actual implementation is written in R and placed at `./notebook/caravan.jpynb`
+A script for the tasks was implemented by R and placed at `./notebook/caravan.jpynb`.
+
+In case that the jupyter notebook is not rendered on github, please try [nbviewer](https://nbviewer.jupyter.org/)
 
 ## Outline
 This project perform several tasks below;
